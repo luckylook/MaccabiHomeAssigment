@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Maccabi</string>
+    <string name="no_products_selected">"No products as been selected"</string>
+
+    <!--CategoryScreen-->
+    <string name="all_categories">All Categories</string>
+    <string name="category_thumbnail_description">Thumbnail of category</string>
+    <string name="products_label">Products:</string>
+    <string name="InStock_label">In Stock:</string>
+
+    <!--ProductsScreen-->
+    <string name="price_label">Price:</string>
+    <string name="quantity_label">Quantity:</string>
+    <string name="product_thumbnail_description">Thumbnail of product</string>
+</resources>
